@@ -63,7 +63,7 @@ public/
 Clone o repositório:
 
 ```bash
-git clone URL-DO-REPOSITORIO
+git clone https://github.com/paulomatheus-bz/advogado-paulohenrique
 ```
 
 Entre na pasta:
