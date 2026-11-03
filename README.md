@@ -1,137 +1,42 @@
 # Dr. Paulo Henrique Chaves — Advocacia
 
-![Preview do site](./public/preview.png)
+Documentação do projeto de site institucional desenvolvido para Dr. Paulo Henrique Chaves, com foco em apresentação profissional e facilidade de contato.
 
-Site institucional desenvolvido para **Dr. Paulo Henrique Chaves**, advogado, com foco em presença digital, apresentação profissional e facilidade de contato.
+**Endereço informado pelo projeto:** [advpaulohenriquechaves.com.br](https://www.advpaulohenriquechaves.com.br/).
 
-🌐 **Site:** advpaulohenriquechaves.com.br
+## Estado deste repositório
 
----
+A branch principal contém somente este README. O código-fonte, o `package.json` e as imagens de apresentação ainda não estão versionados aqui.
 
-## Sobre o projeto
+A documentação anterior descreve um site com React, Vite, JavaScript e CSS. Essa stack e os comandos de execução precisam ser conferidos quando o código for enviado; não existe instalação local funcional a partir do conteúdo atual.
 
-O projeto foi desenvolvido com uma identidade visual sóbria e profissional, priorizando uma navegação simples e uma boa experiência tanto no computador quanto no celular.
+## Escopo documentado
 
-O site reúne as principais informações profissionais do advogado e facilita o acesso aos canais de atendimento.
+- Apresentação profissional e áreas de atuação.
+- Perguntas frequentes e canais de atendimento.
+- Contato por WhatsApp.
+- Navegação por seções e layout para celular e computador.
+- Domínio próprio e hospedagem descrita na documentação original como Vercel.
 
-### Principais recursos
+Essas informações registram o escopo relatado do site; não substituem a inspeção do código ou uma verificação da hospedagem.
 
-- Design responsivo
-- Navegação por seções
-- Apresentação profissional
-- Áreas de atuação
-- Perguntas frequentes
-- Canais de contato
-- Integração com WhatsApp
-- Layout adaptado para dispositivos móveis
-- Domínio próprio
-- Deploy em produção pela Vercel
-
----
-
-## Tecnologias
-
-O projeto utiliza tecnologias modernas de desenvolvimento web:
-
-- React
-- Vite
-- JavaScript
-- CSS
-- Vercel
-
----
-
-## Estrutura do projeto
-
-```text
-src/
-├── assets/
-├── components/
-├── App.jsx
-└── main.jsx
-
-public/
-└── ...
-```
-
-> A estrutura pode variar conforme novas funcionalidades forem adicionadas ao projeto.
-
----
-
-## Executando localmente
-
-Clone o repositório:
+## Obter a documentação
 
 ```bash
-git clone https://github.com/paulomatheus-bz/advogado-paulohenrique
+git clone https://github.com/paulomatheus-bz/advogado-paulohenrique.git
+cd advogado-paulohenrique
 ```
 
-Entre na pasta:
+Os comandos de instalação, build e desenvolvimento serão documentados após a inclusão dos arquivos reais. A imagem de prévia também depende do envio de um arquivo autorizado.
 
-```bash
-cd dr-paulo-advocacia
-```
+## Manutenção
 
-Instale as dependências:
+Preserve conteúdo profissional aprovado, identidade visual e links de contato. Antes de publicar alterações no site, confirme o ambiente de hospedagem e revise a experiência em celular e computador.
 
-```bash
-npm install
-```
-
-Inicie o ambiente de desenvolvimento:
-
-```bash
-npm run dev
-```
-
-O endereço local será exibido no terminal.
-
----
-
-## Build de produção
-
-Para gerar a versão otimizada do projeto:
-
-```bash
-npm run build
-```
-
-Para visualizar o build localmente:
-
-```bash
-npm run preview
-```
-
----
-
-## Deploy
-
-O projeto está hospedado na **Vercel** e conectado a um domínio próprio registrado no **Registro.br**.
-
-**Domínio de produção:**
-
-`advpaulohenriquechaves.com.br`
-
-As alterações enviadas para a branch configurada para produção podem ser publicadas automaticamente através da integração de deploy.
-
----
-
-## Responsividade
-
-A interface foi desenvolvida considerando diferentes tamanhos de tela:
-
-**Desktop · Notebook · Tablet · Smartphone**
-
-O objetivo é manter a identidade visual, legibilidade e facilidade de navegação independentemente do dispositivo utilizado.
-
----
+Não inclua credenciais de domínio, hospedagem ou atendimento no GitHub.
 
 ## Desenvolvimento
 
-Projeto desenvolvido por:
-
-**Paulo Matheus & Jackson**
-
----
+Projeto desenvolvido por **Paulo Matheus & Jackson**.
 
 © 2026 Paulo Matheus & Jackson.
