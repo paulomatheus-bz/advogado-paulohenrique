@@ -52,3 +52,7 @@ Não inclua credenciais de domínio, hospedagem ou atendimento no GitHub.
 Projeto desenvolvido por **Paulo Matheus & Jackson**.
 
 © 2026 Paulo Matheus & Jackson.
+
+---
+
+Desenvolvido por **[Paulo Matheus](https://github.com/paulomatheus-bz)**.
