@@ -1,4 +1,16 @@
-# Dr. Paulo Henrique Chaves — Advocacia
+<div align="center">
+
+<sub>ADVOCACIA</sub>
+
+<h1>Dr. Paulo Henrique Chaves — Advocacia</h1>
+
+<p>Apresentação institucional · Documentação do projeto.</p>
+
+<p><a href="#estado-deste-repositório">Estado deste repositório</a> &nbsp;·&nbsp; <a href="#escopo-documentado">Escopo documentado</a> &nbsp;·&nbsp; <a href="#obter-a-documentação">Obter a documentação</a> &nbsp;·&nbsp; <a href="#manutenção">Manutenção</a> &nbsp;·&nbsp; <a href="#desenvolvimento">Desenvolvimento</a></p>
+
+</div>
+
+---
 
 Documentação do projeto de site institucional desenvolvido para Dr. Paulo Henrique Chaves, com foco em apresentação profissional e facilidade de contato.
 
