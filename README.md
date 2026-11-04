@@ -1,10 +1,14 @@
+<div align="center">
+
 # Paulo Henrique Chaves — Advocacia
 
-> Site institucional com apresentação profissional e canais de contato.
+<p>Site institucional para apresentar atuação e contato.</p>
 
-![HTML](https://img.shields.io/badge/HTML-172554?style=flat-square&labelColor=111827) ![CSS](https://img.shields.io/badge/CSS-172554?style=flat-square&labelColor=111827) ![JavaScript](https://img.shields.io/badge/JavaScript-172554?style=flat-square&labelColor=111827)
+<img alt="Documentação" src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-475569?style=for-the-badge&logo=markdown&logoColor=white" />
 
-**Área:** jurídico
+<sub>PROJETO · PAULO MATHEUS</sub>
+
+</div>
 
 ---
 
