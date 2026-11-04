@@ -8,53 +8,30 @@
 
 ---
 
-
 <!-- readme:project-navigation -->
-<p align="center"><sub><a href="#estado-deste-repositorio">Estado deste repositório</a> &nbsp;·&nbsp; <a href="#escopo-documentado">Escopo documentado</a> &nbsp;·&nbsp; <a href="#obter-a-documentacao">Obter a documentação</a> &nbsp;·&nbsp; <a href="#manutencao">Manutenção</a></sub></p>
+<p align="center"><sub><a href="#sobre">Sobre</a> &nbsp;·&nbsp; <a href="#estado-atual">Estado atual</a> &nbsp;·&nbsp; <a href="#linguagens">Linguagens</a> &nbsp;·&nbsp; <a href="#ver-online">Ver online</a> &nbsp;·&nbsp; <a href="#proximo-passo">Próximo passo</a></sub></p>
 <!-- /readme:project-navigation -->
-Documentação do projeto de site institucional desenvolvido para Dr. Paulo Henrique Chaves, com foco em apresentação profissional e facilidade de contato.
 
-**Endereço informado pelo projeto:** [advpaulohenriquechaves.com.br](https://www.advpaulohenriquechaves.com.br/).
+## Sobre
 
-## Estado deste repositório
+Site institucional para apresentar a atuação profissional, áreas de atendimento e formas de contato.
 
-A branch principal contém somente este README. O código-fonte, o `package.json` e as imagens de apresentação ainda não estão versionados aqui.
+## Estado atual
 
-A documentação anterior descreve um site com React, Vite, JavaScript e CSS. Essa stack e os comandos de execução precisam ser conferidos quando o código for enviado; não existe instalação local funcional a partir do conteúdo atual.
+**Demonstração publicada.** Existe uma demonstração online, mas o código-fonte ainda não foi enviado para este repositório.
 
-## Escopo documentado
+## Linguagens
 
-- Apresentação profissional e áreas de atuação.
-- Perguntas frequentes e canais de atendimento.
-- Contato por WhatsApp.
-- Navegação por seções e layout para celular e computador.
-- Domínio próprio e hospedagem descrita na documentação original como Vercel.
+Nenhuma linguagem detectada: só há documentação neste repositório.
 
-Essas informações registram o escopo relatado do site; não substituem a inspeção do código ou uma verificação da hospedagem.
+## Ver online
 
-## Obter a documentação
+[Paulo Henrique Chaves — Advocacia](https://www.advpaulohenriquechaves.com.br/)
 
-```bash
-git clone https://github.com/paulomatheus-bz/advogado-paulohenrique.git
-cd advogado-paulohenrique
-```
+## Próximo passo
 
-Os comandos de instalação, build e desenvolvimento serão documentados após a inclusão dos arquivos reais. A imagem de prévia também depende do envio de um arquivo autorizado.
-
-## Manutenção
-
-Preserve conteúdo profissional aprovado, identidade visual e links de contato. Antes de publicar alterações no site, confirme o ambiente de hospedagem e revise a experiência em celular e computador.
-
-Não inclua credenciais de domínio, hospedagem ou atendimento no GitHub.
-
-## Desenvolvimento
-
-Projeto desenvolvido por **Paulo Matheus & Jackson**.
-
-© 2026 Paulo Matheus & Jackson.
+Versionar o código da versão publicada e manter o conteúdo institucional atualizado.
 
 ---
 
-<p align="center">
-  <sub><strong>Jurídico</strong> · Projeto mantido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub>
-</p>
+<p align="center"><sub>Jurídico · <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub></p>
