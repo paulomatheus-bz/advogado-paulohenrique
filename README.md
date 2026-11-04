@@ -1,14 +1,10 @@
-<div align="center">
+# Paulo Henrique Chaves — Advocacia
 
-<sub>ADVOCACIA</sub>
+> Site institucional com apresentação profissional e canais de contato.
 
-<h1>Dr. Paulo Henrique Chaves — Advocacia</h1>
+![HTML](https://img.shields.io/badge/HTML-172554?style=flat-square&labelColor=111827) ![CSS](https://img.shields.io/badge/CSS-172554?style=flat-square&labelColor=111827) ![JavaScript](https://img.shields.io/badge/JavaScript-172554?style=flat-square&labelColor=111827)
 
-<p>Apresentação institucional · Documentação do projeto.</p>
-
-<p><a href="#estado-deste-repositório">Estado deste repositório</a> &nbsp;·&nbsp; <a href="#escopo-documentado">Escopo documentado</a> &nbsp;·&nbsp; <a href="#obter-a-documentação">Obter a documentação</a> &nbsp;·&nbsp; <a href="#manutenção">Manutenção</a> &nbsp;·&nbsp; <a href="#desenvolvimento">Desenvolvimento</a></p>
-
-</div>
+**Área:** jurídico
 
 ---
 
