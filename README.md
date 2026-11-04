@@ -10,7 +10,7 @@
 
 
 <!-- readme:project-navigation -->
-<p align="center"><sub>[Estado deste repositório](#estado-deste-repositorio) · [Escopo documentado](#escopo-documentado) · [Obter a documentação](#obter-a-documentacao) · [Manutenção](#manutencao)</sub></p>
+<p align="center"><sub><a href="#estado-deste-repositorio">Estado deste repositório</a> &nbsp;·&nbsp; <a href="#escopo-documentado">Escopo documentado</a> &nbsp;·&nbsp; <a href="#obter-a-documentacao">Obter a documentação</a> &nbsp;·&nbsp; <a href="#manutencao">Manutenção</a></sub></p>
 <!-- /readme:project-navigation -->
 Documentação do projeto de site institucional desenvolvido para Dr. Paulo Henrique Chaves, com foco em apresentação profissional e facilidade de contato.
 
