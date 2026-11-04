@@ -8,6 +8,10 @@
 
 ---
 
+
+<!-- readme:project-navigation -->
+<p align="center"><sub>[Estado deste repositório](#estado-deste-repositorio) · [Escopo documentado](#escopo-documentado) · [Obter a documentação](#obter-a-documentacao) · [Manutenção](#manutencao)</sub></p>
+<!-- /readme:project-navigation -->
 Documentação do projeto de site institucional desenvolvido para Dr. Paulo Henrique Chaves, com foco em apresentação profissional e facilidade de contato.
 
 **Endereço informado pelo projeto:** [advpaulohenriquechaves.com.br](https://www.advpaulohenriquechaves.com.br/).
@@ -51,4 +55,6 @@ Projeto desenvolvido por **Paulo Matheus & Jackson**.
 
 ---
 
-Desenvolvido por **[Paulo Matheus](https://github.com/paulomatheus-bz)**.
+<p align="center">
+  <sub><strong>Jurídico</strong> · Projeto mantido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub>
+</p>
