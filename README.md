@@ -4,11 +4,16 @@ Projeto de site institucional para apresentar a atuação do advogado Paulo Henr
 
 ## Conteúdo
 
-A versão pública reúne apresentação profissional, áreas de atuação e informações de contato. O texto jurídico deve ser conferido pelo próprio escritório antes de qualquer atualização.
+A página pública reúne apresentação profissional, áreas de atuação e informações de contato. O texto jurídico e os dados profissionais devem ser conferidos pelo próprio escritório antes de qualquer atualização.
 
 ## Repositório
 
-A documentação está aqui, mas os arquivos da aplicação ainda não foram adicionados. Por esse motivo, o GitHub não mostra linguagens de código para este repositório.
+Este espaço mantém a documentação do projeto, mas os arquivos da aplicação ainda não foram adicionados. Por isso, o GitHub não mostra linguagens de código.
+
+## Cuidados editoriais
+
+Manter as informações objetivas e atualizadas. Qualquer afirmação sobre serviços ou resultados deve ser aprovada pelo escritório e seguir as regras de comunicação profissional aplicáveis.
+
 ---
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
