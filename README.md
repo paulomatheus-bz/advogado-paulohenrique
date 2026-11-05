@@ -17,4 +17,8 @@ A apresentação inclui perfil profissional, áreas de atuação e canais de ate
 
 Os arquivos da aplicação ainda não foram organizados neste repositório. Para a próxima versão, estou considerando React, TypeScript e Vite. Os badges indicam essa proposta técnica, não código disponível aqui.
 
+## Continuidade do projeto
+
+O escritório precisa revisar os textos, as áreas de atuação e as informações de contato antes de qualquer divulgação. Quando o conteúdo for aprovado, vou organizar os arquivos da demonstração neste repositório e registrar como executar o site.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
