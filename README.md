@@ -9,3 +9,6 @@ A versão pública reúne apresentação profissional, áreas de atuação e inf
 ## Repositório
 
 A documentação está aqui, mas os arquivos da aplicação ainda não foram adicionados. Por esse motivo, o GitHub não mostra linguagens de código para este repositório.
+---
+
+<p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
