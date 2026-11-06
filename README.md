@@ -6,7 +6,7 @@
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />
 </p>
 
-<p><sub>Tecnologias previstas para implementação.</sub></p>
+<p><sub>Stack planejada para esta versão.</sub></p>
 Desenvolvi uma proposta de site institucional para apresentar o trabalho do advogado Paulo Henrique Chaves e facilitar o contato com o escritório.
 
 ## Informações da página
