@@ -1,8 +1,4 @@
-<div align="center">
-
 # Paulo Henrique Chaves — Advocacia
-
-*Desenvolvi uma proposta de site institucional para apresentar o trabalho do advogado Paulo Henrique Chaves e facilitar o contato com o escritório.*
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -10,7 +6,9 @@
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />
 </p>
 
-</div>
+> Desenvolvi uma proposta de site institucional para apresentar o trabalho do advogado Paulo Henrique Chaves e facilitar o contato com o escritório.
+
+---
 
 <p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 ## Informações da página
