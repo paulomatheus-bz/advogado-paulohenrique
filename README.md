@@ -14,4 +14,9 @@ A página apresenta o trabalho do advogado e os canais do escritório. Os textos
 
 O código não está neste repositório. React, TypeScript e Vite são a stack prevista.
 
+
+## Identidade institucional
+
+Estrutura de apresentação do escritório, sujeita à validação do conteúdo e das informações profissionais.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
